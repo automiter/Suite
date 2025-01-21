@@ -76,4 +76,3 @@ If you have any questions or run into issues, feel free to reach out to the Auto
 ## Contact
 
 For further assistance or to report any issues, please contact us at [Automiter Support](mailto:support@automiter.com).
-
